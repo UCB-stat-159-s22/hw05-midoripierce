@@ -4,4 +4,4 @@ The ligo package.
 
 __version__ = "0.0.1"
 
-from .toys import *
+from .readligo import *
